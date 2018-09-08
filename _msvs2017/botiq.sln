@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "botiq", "botiq.vcxproj", "{948B1104-684F-48CE-A8D5-4650D241FAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{948B1104-684F-48CE-A8D5-4650D241FAFE}.Debug|x64.ActiveCfg = Debug|x64
+		{948B1104-684F-48CE-A8D5-4650D241FAFE}.Debug|x64.Build.0 = Debug|x64
+		{948B1104-684F-48CE-A8D5-4650D241FAFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{948B1104-684F-48CE-A8D5-4650D241FAFE}.Debug|x86.Build.0 = Debug|Win32
+		{948B1104-684F-48CE-A8D5-4650D241FAFE}.Release|x64.ActiveCfg = Release|x64
+		{948B1104-684F-48CE-A8D5-4650D241FAFE}.Release|x64.Build.0 = Release|x64
+		{948B1104-684F-48CE-A8D5-4650D241FAFE}.Release|x86.ActiveCfg = Release|Win32
+		{948B1104-684F-48CE-A8D5-4650D241FAFE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79EA121E-8365-4A30-BC06-F668162F5FF9}
+	EndGlobalSection
+EndGlobal
